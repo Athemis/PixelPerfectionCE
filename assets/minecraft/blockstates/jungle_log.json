@@ -7,11 +7,11 @@
         "axis=z": [
 			{ "model": "block/jungle_log", "x": 90 },
 			{ "model": "block/logs/jungle/1", "x": 90 }
-		],	
+		],
         "axis=x": [
 			{ "model": "block/jungle_log", "x": 90, "y": 90 },
 			{ "model": "block/logs/jungle/1", "x": 90, "y": 90 }
 		],
-        "axis=none": { "model": "block/jungle_bark" }
+        "axis=none": { "model": "block/jungle_log" }
     }
 }

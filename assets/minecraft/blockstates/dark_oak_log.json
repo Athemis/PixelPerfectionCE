@@ -7,11 +7,11 @@
         "axis=z": [
 			{ "model": "block/dark_oak_log", "x": 90 },
 			{ "model": "block/logs/dark_oak/1", "x": 90 }
-		],	
+		],
         "axis=x": [
 			{ "model": "block/dark_oak_log", "x": 90, "y": 90 },
 			{ "model": "block/logs/dark_oak/1", "x": 90, "y": 90 }
 		],
-        "axis=none": { "model": "block/dark_oak_bark" }
+        "axis=none": { "model": "block/dark_oak_log" }
     }
 }

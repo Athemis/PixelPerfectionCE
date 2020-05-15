@@ -1,9 +1,9 @@
 {
     "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "textures": {
-        "particle": "block/planks_oak",
-        "wood": "block/planks_oak",
-        "back": "block/itemframe_background"
+        "particle": "block/planks_birch",
+        "wood": "block/item_frame_border",
+        "back": "block/item_frame"
     },
     "elements": [
         {   "from": [ 1, 1, 15.001 ],
