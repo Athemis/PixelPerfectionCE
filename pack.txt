@@ -1,3 +1,2 @@
-XSSheep's Pixel Perfection.
+XSSheep's Pixel Perfection Community Edition
 Pure pixely goodness.
-Shoddily ported for 1.15.
