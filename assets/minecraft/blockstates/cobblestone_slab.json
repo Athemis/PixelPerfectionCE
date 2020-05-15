@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "type=bottom": [
+			{ "model": "block/cobblestone_slab" },
+			{ "model": "block/cobblestone/slab/l1" },
+			{ "model": "block/cobblestone/slab/l2" }
+		],
+        "type=top": [
+			{ "model": "block/cobblestone_slab_top" },
+			{ "model": "block/cobblestone/slab/u1" },
+			{ "model": "block/cobblestone/slab/u2" }		
+		],
+		"type=double": [
+			{ "model": "block/cobblestone" },
+			{ "model": "block/cobblestone/1" },
+			{ "model": "block/cobblestone/2" }
+		]
+    }
+}

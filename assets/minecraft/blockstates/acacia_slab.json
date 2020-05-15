@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "type=bottom": [
+			{ "model": "block/acacia_slab" },
+			{ "model": "block/planks/acacia/slab/l1" },
+			{ "model": "block/planks/acacia/slab/l2" }
+		],
+        "type=top": [
+			{ "model": "block/acacia_slab_top" },
+			{ "model": "block/planks/acacia/slab/u1" },
+			{ "model": "block/planks/acacia/slab/u2" }		
+		],
+		"type=double": [
+			{ "model": "block/acacia_planks" },
+			{ "model": "block/planks/acacia/1" },
+			{ "model": "block/planks/acacia/2" }
+		]
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/oak_leaves" },
+			{ "model": "block/leaves/oak/1" }
+		]
+	}
+}

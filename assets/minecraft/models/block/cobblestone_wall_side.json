@@ -1,0 +1,7 @@
+{
+    "parent": "block/custom_wall_side",
+    "textures": {
+        "wall": "block/cobble_wall_side",
+		"top": "block/cobble_wall_top"
+    }
+}

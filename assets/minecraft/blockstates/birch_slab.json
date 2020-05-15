@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "type=bottom": [
+			{ "model": "block/birch_slab" },
+			{ "model": "block/planks/birch/slab/l1" },
+			{ "model": "block/planks/birch/slab/l2" }
+		],
+        "type=top": [
+			{ "model": "block/birch_slab_top" },
+			{ "model": "block/planks/birch/slab/u1" },
+			{ "model": "block/planks/birch/slab/u2" }		
+		],
+		"type=double": [
+			{ "model": "block/birch_planks" },
+			{ "model": "block/planks/birch/1" },
+			{ "model": "block/planks/birch/2" }
+		]
+    }
+}

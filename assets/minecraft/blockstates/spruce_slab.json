@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "type=bottom": [
+			{ "model": "block/spruce_slab" },
+			{ "model": "block/planks/spruce/slab/l1" },
+			{ "model": "block/planks/spruce/slab/l2" }
+		],
+        "type=top": [
+			{ "model": "block/spruce_slab_top" },
+			{ "model": "block/planks/spruce/slab/u1" },
+			{ "model": "block/planks/spruce/slab/u2" }		
+		],
+		"type=double": [
+			{ "model": "block/spruce_planks" },
+			{ "model": "block/planks/spruce/1" },
+			{ "model": "block/planks/spruce/2" }
+		]
+    }
+}

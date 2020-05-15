@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "type=bottom": [
+			{ "model": "block/sandstone_slab" },
+			{ "model": "block/sandstone/normal/normal/slab/l1" },
+			{ "model": "block/sandstone/normal/normal/slab/l2" }
+		],
+        "type=top": [
+			{ "model": "block/sandstone_slab_top" },
+			{ "model": "block/sandstone/normal/normal/slab/u1" },
+			{ "model": "block/sandstone/normal/normal/slab/u2" }
+		],
+		"type=double": [
+			{ "model": "block/sandstone" },
+			{ "model": "block/sandstone/normal/normal/1" },
+			{ "model": "block/sandstone/normal/normal/2" }
+		]
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/grass_path" },
+			{ "model": "block/path/1" }
+		]
+    }
+}

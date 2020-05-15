@@ -1,0 +1,19 @@
+{
+  "block.bell.use": {
+	"replace": "true",
+	"sounds": [
+	  {
+		"name": "block/bell/use",
+		"stream": "false"
+	  },
+	  {
+	    "name": "block/bell/use1",
+		"stream": "false"
+	  },
+	  {
+	    "name": "block/bell/use2",
+		"stream": "false"
+	  }
+	]
+  }
+}

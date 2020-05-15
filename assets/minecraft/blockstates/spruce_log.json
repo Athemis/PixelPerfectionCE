@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "axis=y": [
+			{ "model": "block/spruce_log" },
+			{ "model": "block/logs/spruce/1" }
+		],
+        "axis=z": [
+			{ "model": "block/spruce_log", "x": 90 },
+			{ "model": "block/logs/spruce/1", "x": 90 }
+		],	
+        "axis=x": [
+			{ "model": "block/spruce_log", "x": 90, "y": 90 },
+			{ "model": "block/logs/spruce/1", "x": 90, "y": 90 }
+		],
+        "axis=none": { "model": "block/spruce_bark" }
+    }
+}

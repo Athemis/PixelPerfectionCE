@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "type=bottom": [
+			{ "model": "block/oak_slab" },
+			{ "model": "block/planks/oak/slab/l1" },
+			{ "model": "block/planks/oak/slab/l2" }
+		],
+        "type=top": [
+			{ "model": "block/oak_slab_top" },
+			{ "model": "block/planks/oak/slab/u1" },
+			{ "model": "block/planks/oak/slab/u2" }		
+		],
+		"type=double": [
+			{ "model": "block/oak_planks" },
+			{ "model": "block/planks/oak/1" },
+			{ "model": "block/planks/oak/2" }
+		]
+    }
+}
