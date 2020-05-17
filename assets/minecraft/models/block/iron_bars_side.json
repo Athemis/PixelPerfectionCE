@@ -2,14 +2,14 @@
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
 "ambientocclusion": false,
     "textures": {
-        "particle": "block/block/iron_bars",
+        "particle": "block/iron_bars",
         "0": "block/iron_bars"
     },
     "elements": [
         {
             "name": "Cube",
-            "from": [ 7.0, 0.0, 2.0 ], 
-            "to": [ 9.0, 16.0, 4.0 ], 
+            "from": [ 7.0, 0.0, 2.0 ],
+            "to": [ 9.0, 16.0, 4.0 ],
             "faces": {
                 "north": { "texture": "#0", "uv": [ 7.0, 0.0, 9.0, 16.0 ] },
                 "east": { "texture": "#0", "uv": [ 12.0, 0.0, 14.0, 16.0 ] },
@@ -21,8 +21,8 @@
         },
         {
             "name": "Cube",
-            "from": [ 7.0, 0.0, 7.0 ], 
-            "to": [ 9.0, 16.0, 9.0 ], 
+            "from": [ 7.0, 0.0, 7.0 ],
+            "to": [ 9.0, 16.0, 9.0 ],
             "faces": {
                 "north": { "texture": "#0", "uv": [ 7.0, 0.0, 9.0, 16.0 ] },
                 "east": { "texture": "#0", "uv": [ 7.0, 0.0, 9.0, 16.0 ] },
@@ -34,8 +34,8 @@
         },
         {
             "name": "Cube",
-            "from": [ 7.0, 11.0, 0.0 ], 
-            "to": [ 9.0, 14.0, 8.0 ], 
+            "from": [ 7.0, 11.0, 0.0 ],
+            "to": [ 9.0, 14.0, 8.0 ],
             "faces": {
                 "north": { "texture": "#0", "uv": [ 7.0, 2.0, 9.0, 5.0 ] },
                 "east": { "texture": "#0", "uv": [ 8.0, 2.0, 16.0, 5.0 ] },
@@ -47,8 +47,8 @@
         },
         {
             "name": "Cube",
-            "from": [ 7.0, 2.0, 0.0 ], 
-            "to": [ 9.0, 3.0, 8.0 ], 
+            "from": [ 7.0, 2.0, 0.0 ],
+            "to": [ 9.0, 3.0, 8.0 ],
             "faces": {
                 "north": { "texture": "#0", "uv": [ 7.0, 13.0, 9.0, 14.0 ] },
                 "east": { "texture": "#0", "uv": [ 8.0, 13.0, 16.0, 14.0 ] },
