@@ -1,7 +1,7 @@
 {
     "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "textures": {
-        "particle": "block/planks_birch",
+        "particle": "block/birch_planks",
         "wood": "block/item_frame_border",
         "back": "block/item_frame"
     },
