@@ -10,11 +10,11 @@ This resource pack has been originally published by XSSheep in 2012 and has seen
 
 ## How to contribute
 
-### Report a bug
+### Report a Bug
 
 Open an issue in the issue tracker. Fill out the provided form with as many information as possible. This helps us to reproduce the issue and hopefully fix it. If possible, attach screenshots and/or log files illustrating the issue.
 
-### Contribute content
+### Contribute Content
 
 #### Intellectual Property
 
@@ -27,9 +27,9 @@ This is probably the most important part: **Do not copy any kind of content with
 
 If in doubt ask the original creator for explicit permission to include her/his work in Pixel Perfection CE *and* to redistribute it under the CC-BY-SA 4.0 license.
 
-#### Pull requests
+#### Pull Requests
 
-Fork this repository, and push your changes to this fork. Create a pull request and provide the information requested in the template. If you have created content yourself, you will have to consent to having it published under the CC-BY-SA 4.0 license. If you have copied content from anywhere else, you will have to either provide a source for its licensing information or a proof of consent from the original creator. 
+Fork this repository, and push your changes to this fork. Create a pull request and provide the information requested in the template. If you have created content yourself, you will have to consent to having it published under the CC-BY-SA 4.0 license. If you have copied content from anywhere else, you will have to either provide a source for its licensing information or a proof of consent from the original creator.
 
 ## Contributors
 
