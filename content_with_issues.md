@@ -6,6 +6,6 @@ In the process of updating this pack to current versions of Minecraft, some text
 
 ## List of Problematic Textures
 
-|Texture Path               |Type of Infringement   |Replacement Available  |
-|---                        |:---:                  |:---:                  |
-|`entity/banner/globe.png`  |Original MC content    |No                     |
+|Texture Path               |Type of Infringement   |Replacement Available/Merged  |
+|---                        |:---:                  |:---:                         |
+|`entity/banner/globe.png`  |Original MC content    |yes/yes                       |
