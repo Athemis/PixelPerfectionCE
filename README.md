@@ -20,9 +20,9 @@ Open an issue in the issue tracker. Fill out the provided form with as many info
 
 This is probably the most important part: **Do not copy any kind of content without explicit permission!** This includes copying content from Minecraft itself e.g. to add missing textures. You may however use assets published under a compatible license including:
 
-* creative commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0, used by Pixel Perfection and Pixel Perfection CE)
-* creative commons ShareAlike 4.0 International (CC-SA 4.0)
-* creative commons CC0 1.0 Universal Public Domain Dedication (CC0 1.0)
+* [creative commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.en): used by Pixel Perfection and Pixel Perfection CE
+* [creative commons CC0 1.0 Universal Public Domain Dedication (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+* [Free Art License 1.3](http://artlibre.org/licence/lal/en/)
 * Public Domain (PD)
 
 If in doubt ask the original creator for explicit permission to include her/his work in Pixel Perfection CE *and* to redistribute it under the CC-BY-SA 4.0 license.
