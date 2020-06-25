@@ -36,3 +36,4 @@ Fork this repository, and push your changes to this fork. Create a pull request 
 * XSSheep - Original creator of this resource pack. Thank you for your astonishing work! The community is still in hope to see you updating Pixel Perfection according to your artistic vision!
 * StonePendant - [Updates for 1.14](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1242533-pixel-perfection-now-with-polar-bears-1-11?comment=2258)
 * freejusticehere - [Updates for 1.15.2](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1242533-pixel-perfection-now-with-polar-bears-1-11?comment=2264)
+* Nova_Wostra and lazerl0rd - [Updates for 1.16](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1242533-pixel-perfection-now-with-polar-bears-1-11?comment=2275)
