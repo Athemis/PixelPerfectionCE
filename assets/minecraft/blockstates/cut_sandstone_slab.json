@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "type=bottom": [
+			{ "model": "block/cut_sandstone_slab" },
+			{ "model": "block/cut_sandstone/cut/normal/slab/l1" },
+			{ "model": "block/cut_sandstone/cut/normal/slab/l2" },
+			{ "model": "block/cut_sandstone/cut/normal/slab/l3" }
+		],
+        "type=top": [
+			{ "model": "block/cut_sandstone_slab_top" },
+			{ "model": "block/cut_sandstone/cut/normal/slab/u1" },
+			{ "model": "block/cut_sandstone/cut/normal/slab/u2" },
+			{ "model": "block/cut_sandstone/cut/normal/slab/u3" }
+		],
+		"type=double": [
+			{ "model": "block/cut_sandstone" },
+			{ "model": "block/cut_sandstone/cut/normal/1" },
+			{ "model": "block/cut_sandstone/cut/normal/2" },
+			{ "model": "block/cut_sandstone/cut/normal/3" }
+		]
+    }
+}
