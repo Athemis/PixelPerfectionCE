@@ -1,6 +1,0 @@
-{
-    "parent": "block/unshaded_cube_all",
-    "textures": {
-        "all": "block/sea_lantern"
-    }
-}

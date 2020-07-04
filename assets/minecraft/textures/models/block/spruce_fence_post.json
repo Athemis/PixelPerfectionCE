@@ -1,8 +1,0 @@
-{
-    "parent": "block/fence_post",
-    "textures": {
-        "texture": "block/spruce_fence",
-		"side": "block/spruce_fence_side",
-		"top": "block/spruce_fence_top"
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "parent": "block/tinted_cross",
-	"ambientocclusion": false,
-    "textures": {
-        "cross": "block/tall_grass_bottom"
-    }
-}
