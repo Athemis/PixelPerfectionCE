@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/polished_blackstone_bricks", "weight": 30 },
+			{ "model": "block/polished_blackstone_bricks/1", "weight": 15 },
+            { "model": "block/polished_blackstone_bricks/2", "weight": 10 }
+
+		]
+    }
+}
