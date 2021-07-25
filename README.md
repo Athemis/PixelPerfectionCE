@@ -2,7 +2,7 @@
 
 A 16x resolution resource pack for Minecraft™ by Mojang AB. Originally [envisioned and created by XSSheep](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1242533-pixel-perfection-now-with-polar-bears-1-11), updated by the community to support recent Minecraft versions.
 
-Supported Minecraft version (Java Edition): 1.15.2/1.16
+Supported Minecraft version (Java Edition): 1.16.2
 
 ## Description
 
