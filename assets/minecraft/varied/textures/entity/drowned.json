@@ -1,0 +1,35 @@
+{
+	"root": {
+		"options": {
+			"options": [
+				{
+					"below": 1,
+					"then": {
+						"identifier": "minecraft:varied/textures/entity/drowned3.png",
+						"type": "reselect:constant"
+					}
+				},
+				{
+					"below": 2,
+					"then": {
+						"identifier": "minecraft:varied/textures/entity/drowned4.png",
+						"type": "reselect:constant"
+					}
+				}
+			],
+			"type": "reselect:range",
+			"when": {
+				"max": 3,
+				"min": 0,
+				"type": "reselect:random"
+			}
+		},
+		"type": "reselect:range",
+		"when": {
+			"max": 2,
+			"min": 0,
+			"type": "reselect:random"
+		}
+	},
+	"version": 1
+}

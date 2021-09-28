@@ -1,0 +1,33 @@
+{
+	"root": {
+		"options": [
+			{
+				"below": 1,
+				"then": {
+					"options": [
+						{
+							"below": 10,
+							"then": {
+								"identifier": "minecraft:varied/textures/entity/skeleton/skeleton1-4.png",
+								"type": "reselect:constant"
+							}
+						}
+					],
+					"type": "reselect:range",
+					"when": {
+						"max": 10,
+						"min": 0,
+						"type": "reselect:random"
+					}
+				}
+			}
+		],
+		"type": "reselect:range",
+		"when": {
+			"max": 1,
+			"min": 0,
+			"type": "reselect:random"
+		}
+	},
+	"version": 1
+}

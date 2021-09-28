@@ -1,0 +1,32 @@
+{
+	"overrides": [
+		{
+			"model": "",
+			"predicate": {
+				"count": "[2, -65535]"
+			}
+		},
+		{
+			"model": "",
+			"predicate": {
+				"count": "<=65535"
+			}
+		},
+		{
+			"model": "",
+			"predicate": {
+				"count": "[2, -65535]"
+			}
+		},
+		{
+			"model": "",
+			"predicate": {
+				"count": "<=65535"
+			}
+		}
+	],
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mcpppp:item/quiver"
+	}
+}

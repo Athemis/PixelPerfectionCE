@@ -1,0 +1,44 @@
+{
+	"root": {
+		"options": [
+			{
+				"below": 1,
+				"then": {
+					"options": [
+						{
+							"iMatchPattern": "(glow|glow wither_skeleton)",
+							"then": {
+								"options": [
+									{
+										"below": 1,
+										"then": {
+											"identifier": "minecraft:varied/textures/entity/skeleton/wither_skeleton32.png",
+											"type": "reselect:constant"
+										}
+									}
+								],
+								"type": "reselect:range",
+								"when": {
+									"max": 1,
+									"min": 0,
+									"type": "reselect:random"
+								}
+							}
+						}
+					],
+					"type": "reselect:string",
+					"use": {
+						"type": "reselect:entity_name"
+					}
+				}
+			}
+		],
+		"type": "reselect:range",
+		"when": {
+			"max": 1,
+			"min": 0,
+			"type": "reselect:random"
+		}
+	},
+	"version": 1
+}
