@@ -1,0 +1,28 @@
+{
+	"root": {
+		"options": {
+			"options": [
+				{
+					"below": 1,
+					"then": {
+						"identifier": "minecraft:varied/textures/entity/dolphin1.png",
+						"type": "reselect:constant"
+					}
+				}
+			],
+			"type": "reselect:range",
+			"when": {
+				"max": 2,
+				"min": 0,
+				"type": "reselect:random"
+			}
+		},
+		"type": "reselect:range",
+		"when": {
+			"max": 1,
+			"min": 0,
+			"type": "reselect:random"
+		}
+	},
+	"version": 1
+}
